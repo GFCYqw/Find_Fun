@@ -6,7 +6,7 @@ By using some rules, this program can automatically find some **#746118** websit
 
 Function description:
 
-- [ ] Find some random websites using the rule: including 3 random numbers + 2 same characters + .com can take you to a happy world.
+- [ ] Find some random websites using the rule: "3 random numbers + 2 same characters + .com" and this can take you to a happy world.
 
 - [ ] Save the websites found in file and add tags to them.
 
