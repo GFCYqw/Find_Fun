@@ -1,9 +1,22 @@
 ## o(*////▽////*)q
 
+<<<<<<< HEAD
 Hi, this is a program which aimed at LOOING FOR SOME FUN!!
 
 By using some rules, this program can automatically find some **#746118** websites!
 
+=======
+
+
+Hi, this is a program which aimed at LOOING FOR SOME FUN!!
+
+
+
+By using some rules, this program can automatically find some **#746118** websites!
+
+
+
+>>>>>>> 40b4ddf (Setup)
 Function description:
 
 - [ ] Find some random websites using the rule: 5 letters(including 3 random numbers and two same characters) + .com can take you to a happy world.
@@ -13,3 +26,8 @@ Function description:
 - [ ] Custom you own search rules.
 
 - [ ] Remember you own saves.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 40b4ddf (Setup)
