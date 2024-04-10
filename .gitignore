@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 .ssh/
 
->>>>>>> 40b4ddf (Setup)
 # Prerequisites
 *.d
 
