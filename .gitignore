@@ -1,6 +1,7 @@
 .ssh/
 .vscode/
 Find_Fun.code-workspace
+*.save
 
 # Prerequisites
 *.d

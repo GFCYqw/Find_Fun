@@ -16,7 +16,7 @@ int main()
     website[4] = website[3];
     printf("Websites: %s", website);
 
-    FILE *f = fopen("Websites.json", "a");
+    FILE *f = fopen("Websites.save", "a");
     if (f != NULL)
     {
         fputs(website, f);
