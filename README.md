@@ -1,6 +1,6 @@
 ## o(*////▽////*)q
 
-Hi, this is a program which aimed at LOOING FOR SOME FUN!!
+Hi, this is a program which aimed at LOOKING FOR SOME FUN!!
 
 By using some rules, this program can automatically find some **#746118** websites!
 
